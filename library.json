@@ -2,11 +2,27 @@
   "books": [
     {
       "id": 1,
-      "title": "dfgfg",
-      "author": "sfsdfsd",
-      "year": 35,
+      "title": "js",
+      "author": "sad",
+      "year": 354,
+      "isAvailable": false
+    },
+    {
+      "id": 2,
+      "title": "بهزاد",
+      "author": "شسیب",
+      "year": 574,
       "isAvailable": true
     }
   ],
-  "members": []
+  "members": [
+    {
+      "id": 1,
+      "name": "behzad",
+      "email": "behzad@gmail.com",
+      "borrowedBookIds": [
+        1
+      ]
+    }
+  ]
 }
