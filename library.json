@@ -1,0 +1,12 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "dfgfg",
+      "author": "sfsdfsd",
+      "year": 35,
+      "isAvailable": true
+    }
+  ],
+  "members": []
+}
