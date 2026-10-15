@@ -5,13 +5,20 @@
       "title": "js",
       "author": "sad",
       "year": 354,
-      "isAvailable": false
+      "isAvailable": true
     },
     {
       "id": 2,
       "title": "بهزاد",
       "author": "شسیب",
       "year": 574,
+      "isAvailable": true
+    },
+    {
+      "id": 3,
+      "title": "A|B",
+      "author": "SFDD",
+      "year": 654,
       "isAvailable": true
     }
   ],
@@ -20,9 +27,7 @@
       "id": 1,
       "name": "behzad",
       "email": "behzad@gmail.com",
-      "borrowedBookIds": [
-        1
-      ]
+      "borrowedBookIds": []
     }
   ]
 }
